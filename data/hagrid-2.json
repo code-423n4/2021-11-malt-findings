@@ -1,0 +1,9 @@
+{
+  "contest": "Malt Finance contest",
+  "handle": "hagrid",
+  "address": "0x3A46FeD37cAcd52a6DACc4a49f520AdaD0e51D61",
+  "risk": "G",
+  "title": "Invalid equation check on `require`",
+  "issueId": 2,
+  "issueUrl": "https://github.com/code-423n4/2021-11-malt-findings/issues/2"
+}
