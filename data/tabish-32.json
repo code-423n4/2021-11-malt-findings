@@ -1,0 +1,9 @@
+{
+  "contest": "Malt Finance contest",
+  "handle": "tabish",
+  "address": "0xa59cF3a1aE09F2c1970537167CCBDdaE13a54aA7",
+  "risk": "G",
+  "title": "Better packing of struct AuctionData to save gas",
+  "issueId": 32,
+  "issueUrl": "https://github.com/code-423n4/2021-11-malt-findings/issues/32"
+}
