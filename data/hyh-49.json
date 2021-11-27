@@ -1,0 +1,9 @@
+{
+  "contest": "Malt Finance contest",
+  "handle": "hyh",
+  "address": "0x8efE50a4b8c8B64FDC93a5b1712Fd735d8223cD5",
+  "risk": "G",
+  "title": "Auction.userClaimableArbTokens nonzero auction.finalPrice check is redundant",
+  "issueId": 49,
+  "issueUrl": "https://github.com/code-423n4/2021-11-malt-findings/issues/49"
+}
