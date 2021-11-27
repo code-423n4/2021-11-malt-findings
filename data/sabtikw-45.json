@@ -1,0 +1,9 @@
+{
+  "contest": "Malt Finance contest",
+  "handle": "sabtikw",
+  "address": "0xDA062abA66ECCD16f293D7fa22335b9AF335cAE0",
+  "risk": "G",
+  "title": "initialized storage variables are set again in the initializer function ",
+  "issueId": 45,
+  "issueUrl": "https://github.com/code-423n4/2021-11-malt-findings/issues/45"
+}
