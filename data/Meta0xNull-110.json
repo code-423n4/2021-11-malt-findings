@@ -1,0 +1,9 @@
+{
+  "contest": "Malt Finance contest",
+  "handle": "Meta0xNull",
+  "address": "0xfa2Df13a636b8F2FAaA179785797f1f16fDdF8ED",
+  "risk": "2",
+  "title": "function initialize() Can Be Front Runned to Block The Correct Deployment",
+  "issueId": 110,
+  "issueUrl": "https://github.com/code-423n4/2021-11-malt-findings/issues/110"
+}
