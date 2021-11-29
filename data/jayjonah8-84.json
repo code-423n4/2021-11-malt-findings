@@ -1,0 +1,9 @@
+{
+  "contest": "Malt Finance contest",
+  "handle": "jayjonah8",
+  "address": "0x75aAfefc48D23C65F49603491630308DcBd468f5",
+  "risk": "3",
+  "title": "addLiquidity() can be frontrun and user funds stolen",
+  "issueId": 84,
+  "issueUrl": "https://github.com/code-423n4/2021-11-malt-findings/issues/84"
+}
