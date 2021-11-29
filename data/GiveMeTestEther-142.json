@@ -1,0 +1,9 @@
+{
+  "contest": "Malt Finance contest",
+  "handle": "GiveMeTestEther",
+  "address": "0xd685Dd21BD58Ff6976f14C4E7F847a2Da0047965",
+  "risk": "G",
+  "title": "RewardDistributor:_incrementFocalPoint() save storage read",
+  "issueId": 142,
+  "issueUrl": "https://github.com/code-423n4/2021-11-malt-findings/issues/142"
+}
