@@ -1,0 +1,9 @@
+{
+  "contest": "Malt Finance contest",
+  "handle": "ad3sh_",
+  "address": "0x1aA0F8feFbfCC63C6B0FcB0c3aBF89B483b5349d",
+  "risk": "3",
+  "title": "Unauthenticated remove liquidty function ",
+  "issueId": 99,
+  "issueUrl": "https://github.com/code-423n4/2021-11-malt-findings/issues/99"
+}
