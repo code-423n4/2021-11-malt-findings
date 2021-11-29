@@ -1,9 +1,0 @@
-{
-  "contest": "Malt Finance contest",
-  "handle": "loop",
-  "address": "0xe88cAc4e10C4D316E0d52B82dd54f26ade3f0Bb2",
-  "risk": "2",
-  "title": "UniswapHandler:buyMalt assumes contract malt balance is 0 before swapping tokens",
-  "issueId": 107,
-  "issueUrl": "https://github.com/code-423n4/2021-11-malt-findings/issues/107"
-}
