@@ -1,0 +1,9 @@
+{
+  "contest": "Malt Finance contest",
+  "handle": "Meta0xNull",
+  "address": "0xfa2Df13a636b8F2FAaA179785797f1f16fDdF8ED",
+  "risk": "3",
+  "title": "TIMELOCK_ROLE Has Absolute Power to Withdraw All FUND May Raise Red Flags for Investors",
+  "issueId": 125,
+  "issueUrl": "https://github.com/code-423n4/2021-11-malt-findings/issues/125"
+}
