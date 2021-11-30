@@ -1,0 +1,9 @@
+{
+  "contest": "Malt Finance contest",
+  "handle": "0xwags",
+  "address": "0x426DC9dCB3C0d6A283268B4bb51AeC48CEB18854",
+  "risk": "3",
+  "title": "Missing event on critical functions and inadequate zero address check (Permissions.sol) ",
+  "issueId": 217,
+  "issueUrl": "https://github.com/code-423n4/2021-11-malt-findings/issues/217"
+}
