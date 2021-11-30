@@ -1,0 +1,9 @@
+{
+  "contest": "Malt Finance contest",
+  "handle": "0xwags",
+  "address": "0x426DC9dCB3C0d6A283268B4bb51AeC48CEB18854",
+  "risk": "3",
+  "title": "Missing zero address check which will put forfeited rewards at risk(ForefeitHandler.sol) ",
+  "issueId": 216,
+  "issueUrl": "https://github.com/code-423n4/2021-11-malt-findings/issues/216"
+}
