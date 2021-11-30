@@ -1,0 +1,9 @@
+{
+  "contest": "Malt Finance contest",
+  "handle": "stonesandtrees",
+  "address": "0xcbAE7C6a5e9b4d73A6b7212A01c510cD68223bc8",
+  "risk": "3",
+  "title": "Admin setup in initializer can be frontrun to allow attacker to be admin",
+  "issueId": 211,
+  "issueUrl": "https://github.com/code-423n4/2021-11-malt-findings/issues/211"
+}
