@@ -1,0 +1,9 @@
+{
+  "contest": "Malt Finance contest",
+  "handle": "gpersoon",
+  "address": "gpersoon.eth",
+  "risk": "2",
+  "title": "No max for defaultIncentive ",
+  "issueId": 189,
+  "issueUrl": "https://github.com/code-423n4/2021-11-malt-findings/issues/189"
+}
