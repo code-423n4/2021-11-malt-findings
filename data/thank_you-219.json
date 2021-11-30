@@ -1,0 +1,9 @@
+{
+  "contest": "Malt Finance contest",
+  "handle": "thank_you",
+  "address": "0x22f2A6BE015A3951cf75d4883167B9F79699CD4B",
+  "risk": "2",
+  "title": "Frontrunning in UniswapHandler calls to UniswapV2Router",
+  "issueId": 219,
+  "issueUrl": "https://github.com/code-423n4/2021-11-malt-findings/issues/219"
+}
