@@ -1,0 +1,9 @@
+{
+  "contest": "Malt Finance contest",
+  "handle": "gpersoon",
+  "address": "gpersoon.eth",
+  "risk": "1",
+  "title": "_notSameBlock() can be circumvented in bondToAccount() ",
+  "issueId": 195,
+  "issueUrl": "https://github.com/code-423n4/2021-11-malt-findings/issues/195"
+}
