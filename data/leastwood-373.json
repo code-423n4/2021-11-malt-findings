@@ -1,0 +1,9 @@
+{
+  "contest": "Malt Finance contest",
+  "handle": "leastwood",
+  "address": "0x28235de0121700a462b5098cff7d3615b050551f",
+  "risk": "3",
+  "title": "Malt Protocol Uses Stale Results From `MaltDataLab` Which Can Be Abused By Users",
+  "issueId": 373,
+  "issueUrl": "https://github.com/code-423n4/2021-11-malt-findings/issues/373"
+}
