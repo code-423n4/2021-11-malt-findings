@@ -1,0 +1,9 @@
+{
+  "contest": "Malt Finance contest",
+  "handle": "ScopeLift",
+  "address": "scopelift.eth",
+  "risk": "3",
+  "title": "Permissions - `notSameBlock` is insufficient for reentrancy protection ",
+  "issueId": 341,
+  "issueUrl": "https://github.com/code-423n4/2021-11-malt-findings/issues/341"
+}
