@@ -1,0 +1,9 @@
+{
+  "contest": "Malt Finance contest",
+  "handle": "WatchPug",
+  "address": "0x192bDD30D272AabC2B1c3c719c518F0f2d10cc60",
+  "risk": "2",
+  "title": "`AuctionBurnReserveSkew.getPegDeltaFrequency()` Wrong implementation can result in an improper amount of excess Liquidity Extension balance to be used at the end of an auction ",
+  "issueId": 294,
+  "issueUrl": "https://github.com/code-423n4/2021-11-malt-findings/issues/294"
+}
