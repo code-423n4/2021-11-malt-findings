@@ -1,0 +1,9 @@
+{
+  "contest": "Malt Finance contest",
+  "handle": "ScopeLift",
+  "address": "scopelift.eth",
+  "risk": "G",
+  "title": "UniswapHandler - Unneccessary safe math usage",
+  "issueId": 338,
+  "issueUrl": "https://github.com/code-423n4/2021-11-malt-findings/issues/338"
+}
