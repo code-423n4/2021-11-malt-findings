@@ -1,0 +1,9 @@
+{
+  "contest": "Malt Finance contest",
+  "handle": "shenwilly",
+  "address": "0x8b21033337a7066bCFf10Fe0b3CA2A9DA1c58A1d",
+  "risk": "2",
+  "title": "Malicious governor can bypass timelock",
+  "issueId": 231,
+  "issueUrl": "https://github.com/code-423n4/2021-11-malt-findings/issues/231"
+}
