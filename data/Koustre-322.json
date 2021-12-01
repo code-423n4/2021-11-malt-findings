@@ -1,0 +1,9 @@
+{
+  "contest": "Malt Finance contest",
+  "handle": "Koustre",
+  "address": "0xa360E38cdf57e092218E7A5f4Eb73032eE74A8bD",
+  "risk": "1",
+  "title": "UniswapHandler vulnerable to sandwich bots",
+  "issueId": 322,
+  "issueUrl": "https://github.com/code-423n4/2021-11-malt-findings/issues/322"
+}
