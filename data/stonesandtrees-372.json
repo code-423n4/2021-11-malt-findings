@@ -1,0 +1,9 @@
+{
+  "contest": "Malt Finance contest",
+  "handle": "stonesandtrees",
+  "address": "0xcbAE7C6a5e9b4d73A6b7212A01c510cD68223bc8",
+  "risk": "3",
+  "title": "AMM pool can be drained using a flashloan and calling `stabilize`",
+  "issueId": 372,
+  "issueUrl": "https://github.com/code-423n4/2021-11-malt-findings/issues/372"
+}
