@@ -1,0 +1,9 @@
+{
+  "contest": "Malt Finance contest",
+  "handle": "0xwags",
+  "address": "0x426DC9dCB3C0d6A283268B4bb51AeC48CEB18854",
+  "risk": "3",
+  "title": " _addTostakepadding() will return 0 for users who already had a stakepadding but would like to add on top of their previous stake with 'newStakePadding' on line 186-190(AbstractRewardMine.sol)",
+  "issueId": 321,
+  "issueUrl": "https://github.com/code-423n4/2021-11-malt-findings/issues/321"
+}
